@@ -1,0 +1,8 @@
+{
+    "name":"iPhone",
+    "description":"this is latest iphone for users",
+    "costPrice":99000,
+    "salePrice":199000,
+    "category":"Electronics",
+    "stock":1000
+}

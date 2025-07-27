@@ -1,0 +1,18 @@
+{
+    "name":"Vishoo",
+    "age":50,
+    "email":"vishoovermaaaaaa@acciojob.com",
+    "address":{
+        "line1":"112233, best colony",
+        "line2":"near 2nd best colony",
+        "city":"Delhi",
+        "country":"India",
+        "state":"Delhi",
+        "zipCode":110006
+    },
+    "contact":9898767876,
+    "role":"admin",
+    "password":"Accio@12345",
+    "newPassword":"Aa@12345678"
+    
+}

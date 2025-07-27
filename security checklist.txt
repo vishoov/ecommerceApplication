@@ -1,0 +1,8 @@
+1. Data Encryption done
+2. Rate Limiting done
+3. helmet for security headers done
+4. API Security done!
+5. xss done
+6. input validation done
+7. environment security done 
+8. server security done
